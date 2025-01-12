@@ -1,3 +1,5 @@
+#Constraints:
+#1 <= txt.size(),pat.size() <= 1000
 #Function to locate the occurrence of the string x in the string s.
 class Solution:
     def firstOccurence(self,txt,pat):
